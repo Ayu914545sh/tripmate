@@ -1,4 +1,4 @@
-# Carpooling Application (BlaBlaCar Clone)
+# Carpooling Application 
 
 This is a full-stack web application with a **Django** backend and **React** frontend.
 
